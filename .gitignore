@@ -1,0 +1,5 @@
+/adhoc/nbproject/
+adhoc/build.xml
+adhoc/*.class
+adhoc/*.mf
+adhoc/*xml
